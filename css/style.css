@@ -8,30 +8,20 @@ html, body {
     height: 100%;
 }
 
-.navbar-nav a {
-    justify-content: end;
-}
-
-.navbar-nav a:hover {
-    transform: scale(1.05);
-    box-shadow: 0 10px 20px rgba(0,0,0,.12), 0 4px 8px rgba(0,0,0,.06);
-}
-
-.jumbotron-fluid {
-    background-image:url(/css/images/DOAvatar.png);
-    background-size: cover;
-    background-repeat: no-repeat;
-}
+/* This overrides padding from the bootstrap cards*/
 
 .card {
     padding: 0 0 0 0;
 }
+
+/* This sets the hover effects for all links*/
 
 a:hover{
     transform: scale(1.05);
     box-shadow: 0 10px 20px rgba(0,0,0,.12), 0 4px 8px rgba(0,0,0,.06);
 }
 
+/*This sets padding between contact me links*/
 
 .links a { 
     padding-left: 10px;
