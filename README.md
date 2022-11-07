@@ -44,7 +44,7 @@ The website should include the following bootstrap components:
 
 ## Usage
 
-To access the website, navigate to [my portfolio webpage ](https://darrenoxley7.github.io/Bootstrap-Portfolio/). There is a nav menu at the top right which will navigate to the relevant area of the page. There are also links in the Contact Me section, however these are only for demontation purposes. 
+To access the website, navigate to [my portfolio webpage ](https://darrenoxley7.github.io/Bootstrap-Portfolio/). There is a nav menu at the top and in the footer which will navigate to the relevant area of the page. There are also links in the Contact Me section, however these are only for demontation purposes. 
 
 I do not have a Twitter or Facebook account so these are set to link to their respective homepages. The Phone link will call "0" and the Email link will add an example email address to the recipient field in a users preferred email account. It is my intention to update these links as I progress.
 
