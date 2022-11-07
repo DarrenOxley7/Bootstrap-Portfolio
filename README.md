@@ -4,28 +4,57 @@
 
 ### The Task
 
-I was tasked with creating a portfolio page for myself using the skills I have learnt so far, whilst meeting the minimum requirements. These were:
+I was tasked with recreating a portfolio page for myself using Bootstrap, whilst meeting the minimum requirements (listed below).
 
-* When the page is loaded the page presents your name, a recent photo or avatar, and links to sections about you, your work, and how to contact you
-* When one of the links in the navigation is clicked then the UI scrolls to the corresponding section
-* When viewing the section about your work then the section contains titled images of your applications
-* When presented with the your first application then that application's image should be larger in size than the others
-* When images of the applications are clicked then the user is taken to that deployed application
-* When the page is resized or viewed on various screens and devices then the layout is responsive and adapts to my viewport
+I initially thought I should replicate my [first portfolio webpage ](https://darrenoxley7.github.io/challenge-2/) (which I completed) but it felt like trying to bend Bootstrap to do what I needed it to, rather than working with what it was created to do. My initial commit in [My GitHub repo](https://github.com/DarrenOxley7/Bootstrap-Portfolio.git) still contains the first attempt, and a screen shot is below (fig.1), but I decided to start from scratch and design the page around Bootstrap (fig.2).
 
-I focussed most of my efforts on using the Grid display type in my css, although there are some flex types in there too. It's also the first time I have used @media tags to refactor webpages for smaller screens. It's not perfect at the moment but I'm sure I'll improve with time. 
+fig.1
+![First attempt](css/images/portfolio-first-attempt.png)
+
+fig.2
+![Final design](css/images/portfolio-second-attempt.png)
+
+
+## The requirements
+
+The website should include the following bootstrap components:
+
+    - A Navigation bar
+    - A navigation menu at the top.
+      - Include links that are applicable to your portfolio.
+        - Links should navigate to the appropriate sections 
+
+    - A hero section
+        - A jumbotron featuring your picture, your name, and any other information you'd like to include.
+
+    - A work section
+      - A section displaying your work in grid. 
+      - Use bootstrap cards for each project.
+        - The description should give a brief overview of the work.
+
+    - A skills section
+      - List out the skills you expect to learn from the bootcamp.
+
+    - An about / contact section.
+      - An "About Me" section in the same row.
+    
+    - A footer section.
+      - All hyperlinks should have a hover effect.
+      - All buttons should display a box shadow upon hover.
 
 ## Usage
 
-To access the website, navigate to [my portfolio webpage ](https://darrenoxley7.github.io/challenge-2/). There is a nav menu at the top right which will navigate to the relevant area of the page. There are also links in the Contact Me section, however these are only for demontation purposes. 
+To access the website, navigate to [my portfolio webpage ](https://darrenoxley7.github.io/Bootstrap-Portfolio/). There is a nav menu at the top right which will navigate to the relevant area of the page. There are also links in the Contact Me section, however these are only for demontation purposes. 
 
 I do not have a Twitter or Facebook account so these are set to link to their respective homepages. The Phone link will call "0" and the Email link will add an example email address to the recipient field in a users preferred email account. It is my intention to update these links as I progress.
 
 ## Installation
 
-To view the code navigate to the website using the link above and right click on any website element and cick inspect or download the source code from [My GitHub repo](https://github.com/DarrenOxley7/challenge-2.git) and open the index.html file in VS Code.
+To view the code navigate to the website using the link above and right click on any website element and cick inspect or download the source code from [My GitHub repo](https://github.com/DarrenOxley7/Bootstrap-Portfolio.git) and open the index.html file in VS Code.
 
 ## Credits
+https://getbootstrap.com/docs/4.4/
+https://ordinarycoders.com/blog/article/codepen-bootstrap-card-hovers
 
 ### Resources:
 
