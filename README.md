@@ -53,8 +53,8 @@ I do not have a Twitter or Facebook account so these are set to link to their re
 To view the code navigate to the website using the link above and right click on any website element and cick inspect or download the source code from [My GitHub repo](https://github.com/DarrenOxley7/Bootstrap-Portfolio.git) and open the index.html file in VS Code.
 
 ## Credits
-https://getbootstrap.com/docs/4.4/
-https://ordinarycoders.com/blog/article/codepen-bootstrap-card-hovers
+* [Bootstrap] (https://getbootstrap.com/docs/4.4/)
+* [Card hovers] (https://ordinarycoders.com/blog/article/codepen-bootstrap-card-hovers)
 
 ### Resources:
 
